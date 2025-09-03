@@ -6,8 +6,8 @@ Go to the indentifyErrors file,
 1) Open up the file IdentifyErrors
 2) FIX the look of the file with option + shift + f (mac) [Shift + Alt + F  should work on windows]
 3) Run the code an Identify the 4 indentifyErrors and type them below [found in each try-catch]
-  A)
-  B)
-  C)
-  D)
+  A) line 27 you can't divide by 0 because the value is undefined so this is a logical error
+  B) line 12 and 13 the code is not on one line so this is a logic error
+  C) lines 19 20 and 21 have an error because they do not make a triangle this is a logic error
+  D)line 32 tells the computer to have an error so delete the error I am not sure what kind of error this is
 4)Save and sync changes with github to turn in! 
